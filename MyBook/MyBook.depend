@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1499045904 source:c:\users\fofy\documents\utn\mybook\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inc/ArrayList.h"
+
+1499045904 List.h"
+
+1498306494 c:\users\fofy\documents\utn\mybook\inc\arraylist.h
+
+1499047869 source:c:\users\fofy\documents\utn\mybook\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inc/ArrayList.h"
+	"inc/utn.h"
+	"inc/mensaje.h"
+	"inc/usuario.h"
+
+1499048350 io.h"
+
+1494709264 c:\users\fofy\documents\utn\mybook\inc\utn.h
+
+1499047588 c:\users\fofy\documents\utn\mybook\inc\mensaje.h
+
+1499046606 c:\users\fofy\documents\utn\mybook\inc\usuario.h
+
+1499048383 source:c:\users\fofy\documents\utn\mybook\mensaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"inc/ArrayList.h"
+	"inc/utn.h"
+	"inc/mensaje.h"
+	"inc/usuario.h"
+
+1499048350 source:c:\users\fofy\documents\utn\mybook\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"inc/ArrayList.h"
+	"inc/utn.h"
+	"inc/mensaje.h"
+	"inc/usuario.h"
+
+1499046578 source:c:\users\fofy\documents\utn\mybook\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"inc/utn.h"
+
+1499046578 "
+
+1499049060 source:/home/alumno/MyBook/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inc/ArrayList.h"
+
+1499049060 /home/alumno/MyBook/inc/ArrayList.h
+
+1499213910 source:/home/alumno/MyBook/main.c
+	<stdio.h>
+	<stdlib.h>
+	"inc/ArrayList.h"
+	"inc/utn.h"
+	"inc/mensaje.h"
+	"inc/usuario.h"
+
+1499049060 /home/alumno/MyBook/inc/utn.h
+
+1499049060 /home/alumno/MyBook/inc/mensaje.h
+
+1499049060 /home/alumno/MyBook/inc/usuario.h
+
+1499215126 source:/home/alumno/MyBook/mensaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inc/ArrayList.h"
+	"inc/utn.h"
+	"inc/mensaje.h"
+	"inc/usuario.h"
+
+1499215124 source:/home/alumno/MyBook/usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inc/ArrayList.h"
+	"inc/utn.h"
+	"inc/mensaje.h"
+	"inc/usuario.h"
+
+1499207039 source:/home/alumno/MyBook/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"inc/utn.h"
+
+1499200794 source:c:\users\fofy\desktop\mybook\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inc/ArrayList.h"
+
+1499200794 c:\users\fofy\desktop\mybook\inc\arraylist.h
+
+1499922318 source:c:\users\fofy\desktop\mybook\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inc/ArrayList.h"
+	"inc/utn.h"
+	"inc/mensaje.h"
+	"inc/usuario.h"
+	"inc/feed.h"
+
+1499200794 c:\users\fofy\desktop\mybook\inc\utn.h
+
+1499908205 c:\users\fofy\desktop\mybook\inc\mensaje.h
+
+1499910120 c:\users\fofy\desktop\mybook\inc\usuario.h
+
+1499922283 source:c:\users\fofy\desktop\mybook\mensaje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inc/ArrayList.h"
+	"inc/utn.h"
+	"inc/mensaje.h"
+	"inc/usuario.h"
+
+1499922287 source:c:\users\fofy\desktop\mybook\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inc/ArrayList.h"
+	"inc/utn.h"
+	"inc/mensaje.h"
+	"inc/usuario.h"
+
+1499903170 source:c:\users\fofy\desktop\mybook\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"inc/utn.h"
+
+1499922212 source:c:\users\fofy\desktop\mybook\feed.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inc/ArrayList.h"
+	"inc/utn.h"
+	"inc/mensaje.h"
+	"inc/usuario.h"
+	"inc/feed.h"
+
+1499921766 c:\users\fofy\desktop\mybook\inc\feed.h
+
